@@ -7,16 +7,24 @@
   <img src = "https://user-images.githubusercontent.com/83087618/133335615-95493cbf-2376-4840-8587-188864a8bf31.png" width = "400px" />
 </div>
 
+## About
+A search filter made with ReactJS and personalizated with Bootstrap. The mock data was taken from Mockaroo website. You can search for a person typing the first name; the functionality isn't case sensitive, which means that it doesn't differentiate uppercase or lowercase letters, the results will be the same.
 
-## Rode em seu PC
+## View
+<div align="center">
+  <img src = "https://user-images.githubusercontent.com/83086622/142673321-69f7e317-21c2-4fec-96a7-3ef133152888.png" />
+</div>
+
+
+## Run on your PC
   ```bash
-  # Clone o projeto
+  # Clone the project
   $ git clone https://github.com/Kelvin-rnov/filtro-de-busca.git
 
-  # Acesse a pasta e instale as dependências
-  $ cd filtro-de-busca/ && npm i && npm i bootstrap
+  # Access the folder and install the dependencies
+  $ cd filtro-de-busca/ && npm i
 
-  # Inicie o projeto
+  # Start the project
   $ npm start
   ```
 
